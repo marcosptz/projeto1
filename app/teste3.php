@@ -3,7 +3,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Formulário de usuário</title>
+        
+       //java script
         <script src="js/jquery-1.8.2.min.js" type="text/javascript" ></script>
+        
+        // stilos 
         <style>
                label{
                 display: block;
