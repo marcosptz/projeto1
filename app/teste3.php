@@ -35,6 +35,8 @@
         <a href="#janela1" rel="modal">Novo Usuario</a>
 <!--        Tabela de exibição dos dados-->
         <div id="table">
+
+            <!-- tabela -->
             <table  border="1px" cellpadding="5px" cellspacing="0">
                 <tr>
                     <td>Id</td> //id
@@ -42,7 +44,7 @@
                     <td>Email</td> //email
                     <td>Senha</td> //senha
                 </tr>
-                // abrindo php
+                <!-- abrindo php -->
                 <?php
 //precisamos chamar esta página para realizarmos as queries com o banco
                 include 'conexao.php';
@@ -65,6 +67,7 @@
                 }
                 ?>
             </table>
+            <!-- fim tabela -->
 
 <!--            Modal que é aberto ao clicar novo usuario-->
 
