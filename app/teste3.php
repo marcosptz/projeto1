@@ -42,6 +42,7 @@
                     <td>Email</td> //email
                     <td>Senha</td> //senha
                 </tr>
+                // abrindo php
                 <?php
 //precisamos chamar esta página para realizarmos as queries com o banco
                 include 'conexao.php';
