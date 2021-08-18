@@ -37,10 +37,10 @@
         <div id="table">
             <table  border="1px" cellpadding="5px" cellspacing="0">
                 <tr>
-                    <td>Id</td>
-                    <td>Nome</td>
-                    <td>Email</td>
-                    <td>Senha</td>
+                    <td>Id</td> //id
+                    <td>Nome</td> //nome
+                    <td>Email</td> //email
+                    <td>Senha</td> //senha
                 </tr>
                 <?php
 //precisamos chamar esta página para realizarmos as queries com o banco
